@@ -1,0 +1,2 @@
+defmodule MixReport do
+end
