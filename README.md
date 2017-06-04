@@ -4,6 +4,12 @@ Mix tasks for reporting issues for Elixir projects.
 
 Based on proposal by Michał Muskała: https://groups.google.com/forum/#!topic/elixir-lang-core/15iTfoo2lPs
 
+## Usage
+
+Run `mix report.elixir` to open up a pre-filled issue template for Elixir.
+
+See `mix report` for help.
+
 ## Installation
 
 On Elixir v1.4+:
